@@ -1,28 +1,59 @@
-<h1 align="center">Hi 👋, I'm Isha Savaliya</h1>
-<h3 align="center">Software Engineering Student | Committed to Growth & Learning</h3>
+<!-- Animated Typing Intro -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=35&duration=4000&pause=500&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Isha+Savaliya;Software+Engineering+Student;Web+Developer+%F0%9F%92%BB;React+Enthusiast+%F0%9F%9A%80" alt="Typing Intro" />
+</h1>
 
-- 🔭 I’m currently working on **Web Development**
+<h1 align="center" style="color: orange;">Isha Savaliya</h1>
 
-- 🌱 I’m currently learning **React**
+<h3 align="center">💻 Passionate about building creative, scalable, and user-friendly web experiences</h3>
 
-- 📫 How to reach me **ishasavaliya25@gmail.com**
+---
 
-- ⚡ Fun fact **I debug better with coffee ☕**
+### ✨ About Me
+- 🔭 **Currently working on:** Web Development  
+- 🌱 **Learning:** React.js ⚛️  
+- 📫 **Reach me at:** [ishasavaliya25@gmail.com](mailto:ishasavaliya25@gmail.com)  
+- ☕ **Fun fact:** I debug better with coffee!  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@ishasavaliya25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ishasavaliya25" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/isha savaliya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isha savaliya" height="30" width="40" /></a>
-<a href="https://kaggle.com/isha_savaliya25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="isha_savaliya25" height="30" width="40" /></a>
-<a href="https://medium.com/ishasavaliya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="ishasavaliya" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ishasavaliya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ishasavaliya" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@ishasavaliya25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ishasavaliya25" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/isha savaliya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="isha savaliya" height="30" width="40" /></a>
+---
+
+### 🌐 Connect With Me
+<p align="center">
+  <a href="https://twitter.com/@ishasavaliya25"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/isha savaliya"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://kaggle.com/isha_savaliya25"><img src="https://img.shields.io/badge/Kaggle-%2300ADEF.svg?&style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+  <a href="https://medium.com/ishasavaliya"><img src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://www.codechef.com/users/ishasavaliya"><img src="https://img.shields.io/badge/CodeChef-%235B4638.svg?&style=for-the-badge&logo=codechef&logoColor=white" /></a>
+  <a href="https://www.hackerrank.com/@ishasavaliya25"><img src="https://img.shields.io/badge/HackerRank-%2300EA64.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+  <a href="https://www.leetcode.com/isha savaliya"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishasavaliya25&show_icons=true&locale=en&layout=compact" alt="ishasavaliya25" /></p>
+### 🛠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,html,css,js,java,python,php,cpp,cs,arduino,aws,oracle,matlab&theme=light" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishasavaliya25&" alt="ishasavaliya25" /></p>
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ishasavaliya25&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ishasavaliya25&theme=radical" alt="GitHub Streak" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ishasavaliya25&layout=compact&theme=radical" width="48%"/>
+</p>
+
+---
+
+### 🎯 Fun Quote of the Day  
+> “Code is like humor. When you have to explain it, it’s bad.” 😄  
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" />
+</p>
