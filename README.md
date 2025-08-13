@@ -21,11 +21,7 @@
 <p align="center">
   <a href="https://twitter.com/@ishasavaliya25"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://linkedin.com/in/isha savaliya"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://kaggle.com/isha_savaliya25"><img src="https://img.shields.io/badge/Kaggle-%2300ADEF.svg?&style=for-the-badge&logo=kaggle&logoColor=white" /></a>
   <a href="https://medium.com/ishasavaliya"><img src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-  <a href="https://www.codechef.com/users/ishasavaliya"><img src="https://img.shields.io/badge/CodeChef-%235B4638.svg?&style=for-the-badge&logo=codechef&logoColor=white" /></a>
-  <a href="https://www.hackerrank.com/@ishasavaliya25"><img src="https://img.shields.io/badge/HackerRank-%2300EA64.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
-  <a href="https://www.leetcode.com/isha savaliya"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 </p>
 
 ---
