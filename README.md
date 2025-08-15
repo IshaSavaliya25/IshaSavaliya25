@@ -10,8 +10,7 @@
 ---
 
 ### ✨ About Me
-- 🔭 **Currently working on:** Web Development  
-- 🌱 **Learning:** React.js ⚛️  
+- 🔭 **Currently learning:**  WordPress Development   
 - 📫 **Reach me at:** [ishasavaliya25@gmail.com](mailto:ishasavaliya25@gmail.com)  
 - ☕ **Fun fact:** I debug better with coffee!  
 
